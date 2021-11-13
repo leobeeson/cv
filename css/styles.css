@@ -74,34 +74,44 @@ th {
     line-height: 2;
 }
 
+.skill-name {
+    width: 400px;
+    padding: 10px;
+}
+
 .data-engineering-img {
     width: 35%;
     float: right;
     margin-left: 100px;
+    margin-top: 40px;
 }
 
 .nlp-img {
     width: 35%;
     float: right;
     margin-left: 100px;    
+    margin-top: 40px;
 }
 
 .knowledge-engineering-img {
     width: 35%;
     float: right;
     margin-left: 100px;    
+    margin-top: 40px;
 }
 
 .software-engineering-img {
     width: 35%;
     float: right;
-    margin-left: 100px;        
+    margin-left: 100px;   
+    margin-top: 40px;     
 }
 
 .scripting-img {
     width: 35%;
     float: right;
-    margin-left: 100px;        
+    margin-left: 100px;    
+    margin-top: 40px;    
 }
 
 .experience-group {
